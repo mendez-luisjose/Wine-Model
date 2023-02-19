@@ -24,5 +24,7 @@ Test the Model by yourself running the `main.py` file, built with `Streamlit`.
 ```sh
 streamlit run main.py
 ```
-
+## Resources
+- Code explained at: https://mendezluisjose.hashnode.dev/wine-classification-model
+- Dataset: https://www.kaggle.com/datasets/rajyellow46/wine-quality
 
